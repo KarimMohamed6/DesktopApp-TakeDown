@@ -1,0 +1,355 @@
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\My Note.exe
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\My Note.deps.json
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\My Note.runtimeconfig.json
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\My Note.dll
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\My Note.pdb
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\obj\Debug\net6.0-windows\My Note.csproj.AssemblyReference.cache
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\obj\Debug\net6.0-windows\My_Note.Form1.resources
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\obj\Debug\net6.0-windows\My_Note.Properties.Resources.resources
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\obj\Debug\net6.0-windows\My Note.csproj.GenerateResource.cache
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\obj\Debug\net6.0-windows\My Note.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\obj\Debug\net6.0-windows\My Note.AssemblyInfoInputs.cache
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\obj\Debug\net6.0-windows\My Note.AssemblyInfo.cs
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\obj\Debug\net6.0-windows\My Note.csproj.CoreCompileInputs.cache
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\obj\Debug\net6.0-windows\My Note.csproj.CopyComplete
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\obj\Debug\net6.0-windows\My Note.dll
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\obj\Debug\net6.0-windows\refint\My Note.dll
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\obj\Debug\net6.0-windows\My Note.pdb
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\obj\Debug\net6.0-windows\My Note.genruntimeconfig.cache
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\obj\Debug\net6.0-windows\ref\My Note.dll
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\obj\Debug\net6.0-windows\My_Note.ucHome.resources
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\obj\Debug\net6.0-windows\My_Note.ucStickyNote.resources
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\CustomControls.RJControls.dll
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\obj\Debug\net6.0-windows\My_Note.ucAddNote.resources
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\obj\Debug\net6.0-windows\My_Note.ucShowAllCategories.resources
+C:\Users\km677\OneDrive\Desktop\My Note\My Note\obj\Debug\net6.0-windows\My_Note.ucShowCategories.resources
+D:\My Note\My Note\bin\Debug\net6.0-windows\My Note.exe
+D:\My Note\My Note\bin\Debug\net6.0-windows\My Note.deps.json
+D:\My Note\My Note\bin\Debug\net6.0-windows\My Note.runtimeconfig.json
+D:\My Note\My Note\bin\Debug\net6.0-windows\My Note.dll
+D:\My Note\My Note\bin\Debug\net6.0-windows\My Note.pdb
+D:\My Note\My Note\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\My Note\My Note\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\My Note\My Note\bin\Debug\net6.0-windows\CustomControls.RJControls.dll
+D:\My Note\My Note\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+D:\My Note\My Note\bin\Debug\net6.0-windows\Humanizer.dll
+D:\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\My Note\My Note\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+D:\My Note\My Note\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\My Note\My Note\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\My Note\My Note\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\My Note\My Note\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\My Note\My Note\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\My Note\My Note\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\My Note\My Note\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\My Note\My Note\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\My Note\My Note\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\My Note\My Note\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\My Note\My Note\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\My Note\My Note\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\My Note\My Note\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\My Note\My Note\obj\Debug\net6.0-windows\My Note.csproj.AssemblyReference.cache
+D:\My Note\My Note\obj\Debug\net6.0-windows\My_Note.Form1.resources
+D:\My Note\My Note\obj\Debug\net6.0-windows\My_Note.Properties.Resources.resources
+D:\My Note\My Note\obj\Debug\net6.0-windows\My_Note.ucAddNote.resources
+D:\My Note\My Note\obj\Debug\net6.0-windows\My_Note.ucHome.resources
+D:\My Note\My Note\obj\Debug\net6.0-windows\My_Note.ucShowAllCategories.resources
+D:\My Note\My Note\obj\Debug\net6.0-windows\My_Note.ucShowCategories.resources
+D:\My Note\My Note\obj\Debug\net6.0-windows\My_Note.ucStickyNote.resources
+D:\My Note\My Note\obj\Debug\net6.0-windows\My Note.csproj.GenerateResource.cache
+D:\My Note\My Note\obj\Debug\net6.0-windows\My Note.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Note\My Note\obj\Debug\net6.0-windows\My Note.AssemblyInfoInputs.cache
+D:\My Note\My Note\obj\Debug\net6.0-windows\My Note.AssemblyInfo.cs
+D:\My Note\My Note\obj\Debug\net6.0-windows\My Note.csproj.CoreCompileInputs.cache
+D:\My Note\My Note\obj\Debug\net6.0-windows\My Note.csproj.CopyComplete
+D:\My Note\My Note\obj\Debug\net6.0-windows\My Note.dll
+D:\My Note\My Note\obj\Debug\net6.0-windows\refint\My Note.dll
+D:\My Note\My Note\obj\Debug\net6.0-windows\My Note.pdb
+D:\My Note\My Note\obj\Debug\net6.0-windows\My Note.genruntimeconfig.cache
+D:\My Note\My Note\obj\Debug\net6.0-windows\ref\My Note.dll
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\My Note.exe
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\My Note.deps.json
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\My Note.runtimeconfig.json
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\My Note.dll
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\My Note.pdb
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\CustomControls.RJControls.dll
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\Humanizer.dll
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Study\My Note\My Note\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Study\My Note\My Note\obj\Debug\net6.0-windows\My Note.csproj.AssemblyReference.cache
+D:\Study\My Note\My Note\obj\Debug\net6.0-windows\My_Note.Form1.resources
+D:\Study\My Note\My Note\obj\Debug\net6.0-windows\My_Note.Properties.Resources.resources
+D:\Study\My Note\My Note\obj\Debug\net6.0-windows\My_Note.ucAddNote.resources
+D:\Study\My Note\My Note\obj\Debug\net6.0-windows\My_Note.ucHome.resources
+D:\Study\My Note\My Note\obj\Debug\net6.0-windows\My_Note.ucShowAllCategories.resources
+D:\Study\My Note\My Note\obj\Debug\net6.0-windows\My_Note.ucShowCategories.resources
+D:\Study\My Note\My Note\obj\Debug\net6.0-windows\My_Note.ucStickyNote.resources
+D:\Study\My Note\My Note\obj\Debug\net6.0-windows\My Note.csproj.GenerateResource.cache
+D:\Study\My Note\My Note\obj\Debug\net6.0-windows\My Note.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\My Note\My Note\obj\Debug\net6.0-windows\My Note.AssemblyInfoInputs.cache
+D:\Study\My Note\My Note\obj\Debug\net6.0-windows\My Note.AssemblyInfo.cs
+D:\Study\My Note\My Note\obj\Debug\net6.0-windows\My Note.csproj.CoreCompileInputs.cache
+D:\Study\My Note\My Note\obj\Debug\net6.0-windows\My Note.csproj.CopyComplete
+D:\Study\My Note\My Note\obj\Debug\net6.0-windows\My Note.dll
+D:\Study\My Note\My Note\obj\Debug\net6.0-windows\refint\My Note.dll
+D:\Study\My Note\My Note\obj\Debug\net6.0-windows\My Note.pdb
+D:\Study\My Note\My Note\obj\Debug\net6.0-windows\My Note.genruntimeconfig.cache
+D:\Study\My Note\My Note\obj\Debug\net6.0-windows\ref\My Note.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\My Note.exe
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\My Note.deps.json
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\My Note.runtimeconfig.json
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\My Note.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\My Note.pdb
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\CustomControls.RJControls.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\Humanizer.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\obj\Debug\net6.0-windows\My Note.csproj.AssemblyReference.cache
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\obj\Debug\net6.0-windows\My_Note.Form1.resources
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\obj\Debug\net6.0-windows\My_Note.Properties.Resources.resources
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\obj\Debug\net6.0-windows\My_Note.ucAddNote.resources
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\obj\Debug\net6.0-windows\My_Note.ucHome.resources
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\obj\Debug\net6.0-windows\My_Note.ucShowAllCategories.resources
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\obj\Debug\net6.0-windows\My_Note.ucShowCategories.resources
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\obj\Debug\net6.0-windows\My_Note.ucStickyNote.resources
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\obj\Debug\net6.0-windows\My Note.csproj.GenerateResource.cache
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\obj\Debug\net6.0-windows\My Note.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\obj\Debug\net6.0-windows\My Note.AssemblyInfoInputs.cache
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\obj\Debug\net6.0-windows\My Note.AssemblyInfo.cs
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\obj\Debug\net6.0-windows\My Note.csproj.CoreCompileInputs.cache
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\obj\Debug\net6.0-windows\My Note.csproj.CopyComplete
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\obj\Debug\net6.0-windows\My Note.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\obj\Debug\net6.0-windows\refint\My Note.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\obj\Debug\net6.0-windows\My Note.pdb
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\obj\Debug\net6.0-windows\My Note.genruntimeconfig.cache
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Notes\My Note\obj\Debug\net6.0-windows\ref\My Note.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\My Note.exe
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\My Note.deps.json
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\My Note.runtimeconfig.json
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\My Note.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\My Note.pdb
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\CustomControls.RJControls.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\Humanizer.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\obj\Debug\net6.0-windows\My Note.csproj.AssemblyReference.cache
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\obj\Debug\net6.0-windows\My_Note.Form1.resources
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\obj\Debug\net6.0-windows\My_Note.Properties.Resources.resources
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\obj\Debug\net6.0-windows\My_Note.ucAddNote.resources
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\obj\Debug\net6.0-windows\My_Note.ucHome.resources
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\obj\Debug\net6.0-windows\My_Note.ucShowAllCategories.resources
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\obj\Debug\net6.0-windows\My_Note.ucShowCategories.resources
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\obj\Debug\net6.0-windows\My_Note.ucStickyNote.resources
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\obj\Debug\net6.0-windows\My Note.csproj.GenerateResource.cache
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\obj\Debug\net6.0-windows\My Note.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\obj\Debug\net6.0-windows\My Note.AssemblyInfoInputs.cache
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\obj\Debug\net6.0-windows\My Note.AssemblyInfo.cs
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\obj\Debug\net6.0-windows\My Note.csproj.CoreCompileInputs.cache
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\obj\Debug\net6.0-windows\My Note.csproj.CopyComplete
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\obj\Debug\net6.0-windows\My Note.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\obj\Debug\net6.0-windows\refint\My Note.dll
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\obj\Debug\net6.0-windows\My Note.pdb
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\obj\Debug\net6.0-windows\My Note.genruntimeconfig.cache
+D:\Study\Some Cources\ITI\Desktop Application\Final Project\Our Note\My Note\obj\Debug\net6.0-windows\ref\My Note.dll
